@@ -1,5 +1,5 @@
 # Link_shortener
-This is the core code from scratch to clone the landing page of Netflix using **HTML,CSS and js**
+This is the core code from scratch to Link-Shortener using **HTML,CSS and js**
 
 ### The challenge
 
