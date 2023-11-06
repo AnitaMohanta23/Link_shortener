@@ -31,4 +31,4 @@ Users should be able to:
 
 ## Author
 
-- LinkedIn -[Anita Mohanta]( https://github.com/AnitaMohanta23)
+- LinkedIn -[Anita Mohanta]( https://linkedin.com/in/anita-mohanta-643717228)
